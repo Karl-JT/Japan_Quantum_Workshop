@@ -19,7 +19,7 @@ jupyter-notebook --ip=0.0.0.0 --port=8888
 
 4. In a different terminal do the following for port forwarding
 ```
-ssh -L your_allocated_port:localhost:8888 yjuntao@131.113.23.19 -p 28367
+ssh -L 8888:localhost:your_allocated_port yjuntao@131.113.23.19 -p 28367
 ```
 
 
@@ -42,5 +42,5 @@ jupyter-notebook --ip=0.0.0.0 --port=8888
 
 4. In a different terminal do the following for port forwarding
 ```
-ssh -L your_allocated_port:localhost:8888 yjuntao@131.113.23.19 -p 28367
+ssh -L 8888:localhost:your_allocated_port yjuntao@131.113.23.19 -p 28367
 ```
