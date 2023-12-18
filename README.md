@@ -23,7 +23,7 @@ ssh -L 8888:localhost:your_allocated_port yjuntao@131.113.23.19 -p 28367
 ```
 
 
-## Step-by-step guide to start CUDA Quantum hands-on jupyter-notebook
+## Step-by-step guide to start cuQuantum hands-on jupyter-notebook
 
 1. Connect to your DGX H100 server with SSH
 ```
