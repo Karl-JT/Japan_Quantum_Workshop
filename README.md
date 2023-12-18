@@ -21,6 +21,7 @@ jupyter-notebook --ip=0.0.0.0 --port=8888
 ```
 ssh -L 8888:localhost:your_allocated_port yjuntao@131.113.23.19 -p 28367
 ```
+5. Now you shall be able to access the jupyter-notebbok witht the link auto-generated start with 127.0.0.1
 
 
 ## Step-by-step guide to start cuQuantum hands-on jupyter-notebook
